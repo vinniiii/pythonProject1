@@ -11,5 +11,9 @@ class Maths():
         print ("printer")
 
 
+    def timepass(self):
+        print("timepass")
+
+
 p1 = Maths()
 p1.addition(5, 6)
