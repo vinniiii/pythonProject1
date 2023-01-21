@@ -7,5 +7,9 @@ class Maths():
         print(sum)
 
 
+    def printer(self):
+        print ("printer")
+
+
 p1 = Maths()
 p1.addition(5, 6)
